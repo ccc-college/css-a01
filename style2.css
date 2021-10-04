@@ -24,7 +24,7 @@
   display: block;
   margin: 0;
   padding: 15px 0 11px;
-  background: #8a9b0f;
+  background: #1f2d4d;
   color: #fff;
   font-size: 14px;
   line-height: 1;
@@ -44,15 +44,15 @@
 }
 .dropmenu li ul li a{
   padding: 13px 15px;
-  border-top: 1px solid #7c8c0e;
-  background: #6e7c0c;
+  border-top: 1px solid #172847;
+  background: #1f2d4d;
   text-align: left;
 }
 .dropmenu li:hover > a{
-  background: #6e7c0c;
+  background: #1f2d4d;
 }
 .dropmenu li a:hover{
-  background: #616d0b;
+  background: #1f2d4d;
 }
 #normal li ul{
   display: none;
